@@ -1,0 +1,4 @@
+# Files to keep private
+config.json
+league.json
+node_modules

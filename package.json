@@ -1,0 +1,15 @@
+{
+  "name": "command_bot",
+  "version": "1.0.0",
+  "description": "A bot that handles chat commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heart in Work",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "nodemon": "^1.12.1"
+  }
+}
