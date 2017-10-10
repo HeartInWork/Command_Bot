@@ -94,7 +94,7 @@ bot.on("guildMemberAdd", async member => {
     welChannel.send("Welcome to Heart in Works Original Discord Server.\n Please type your summoner name (as it appears in game)"
                     + "to unlock access to the rest of our server and the Heart Bot commands");
     
-    const messageCollector = new Discord.MessageCollector (welChannel, )
+    //const messageCollector = new Discord.MessageCollector (welChannel, )
 
 
 });
